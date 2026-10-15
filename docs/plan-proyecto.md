@@ -1,9 +1,9 @@
 # Plan de Proyecto
 
 ## 1. Asignación de Roles
-* **Product Owner + Desarrollo Backend:** Encargado del dominio del negocio (Carnaval de Cádiz) y definición de historias de usuario.
-* **Scrum Master + Desarrollo Backend:** Encargado de la gestión de la metodología ágil y la coordinación del equipo.
-* **Desarrollo Backend (Mayor carga):** Dedicación principal a la implementación técnica y lógica de negocio pesada.
+* **Product Owner + Desarrollo Backend: Ricardo Villodres de la Barrera** Encargado del dominio del negocio (Carnaval de Cádiz) y definición de historias de usuario.
+* **Scrum Master + Desarrollo Backend: Abel David Zamora Acosta** Encargado de la gestión de la metodología ágil y la coordinación del equipo.
+* **Desarrollo Backend (Mayor carga): Jesús Fernández Carreño** Dedicación principal a la implementación técnica y lógica de negocio pesada.
 
 ---
 
