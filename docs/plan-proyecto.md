@@ -1,16 +1,16 @@
 # Plan de Proyecto
 
 ## 1. Asignación de Roles
-* **Product Owner + Desarrollo Backend: Ricardo Villodres de la Barrera** Encargado del dominio del negocio (Carnaval de Cádiz) y definición de historias de usuario.
-* **Scrum Master + Desarrollo Backend: Abel David Zamora Acosta** Encargado de la gestión de la metodología ágil y la coordinación del equipo.
-* **Desarrollo Backend (Mayor carga): Jesús Fernández Carreño** Dedicación principal a la implementación técnica y lógica de negocio pesada.
+* **Product Owner + Desarrollo Backend: (Ricardo Villodres de la Barrera)** Encargado del dominio del negocio (Carnaval de Cádiz) y definición de historias de usuario.
+* **Scrum Master + Desarrollo Backend: (Abel David Zamora Acosta)** Encargado de la gestión de la metodología ágil y la coordinación del equipo.
+* **Desarrollo Backend (Mayor carga): (Jesús Fernández Carreño)** Dedicación principal a la implementación técnica y lógica de negocio pesada.
 
 ---
 
 ## 2. Eventos de Scrum
 * **Planificación del Sprint (Sprint Planning):** Al inicio de cada sprint (~1 hora). Sesión presencial o por videollamada para seleccionar las historias del *Product Backlog* que pasan al *Sprint Backlog*.
-* **Reunión Diaria (Daily Scrum):** 2 a 3 veces por semana (o diaria de 15 min vía mensajería/presencial) respondiendo: qué hizo, qué hará y bloqueos.
-* **Revisión y Retrospectiva (Sprint Review & Retrospective):** Al finalizar cada sprint (~45-60 min). Se comprueba el incremento entregable, se actualiza la documentación en `docs/` y se analizan mejoras del equipo.
+* **Reunión Semanal (Daily Scrum):** 1 vez por semana (en la hora de clase) respondiendo: qué hizo, qué hará y bloqueos.
+* **Revisión y Retrospectiva (Sprint Review & Retrospective):** Al finalizar cada sprint (~30 min). Se comprueba el incremento entregable, se actualiza la documentación en `docs/` y se analizan mejoras del equipo.
 
 ---
 
@@ -35,7 +35,7 @@ Una tarea o historia de usuario se considera completada únicamente si cumple:
 ---
 
 ## 5. Acuerdos del Equipo
-* **Comunicación:** Canal de mensajería instantánea para el día a día y correo electrónico para asuntos formales.
+* **Comunicación:** Canal de mensajería instantánea para el día a día y discord para trabajo colaborativo simultáneo.
 * **Resolución de conflictos:** Decisiones técnicas por consenso. En caso de bloqueo, decide el Product Owner o se consulta en tutorías.
 * **Uso de IA:** Permitido como asistente de desarrollo. Todo código generado debe ser asumido, comprendido y revisado por quien firma el commit, registrando las herramientas en el repositorio.
 
